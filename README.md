@@ -4,7 +4,7 @@
   ## 🚩・Projets :
   | Name             | Lien                              | Description                                                            |
   |------------------|-----------------------------------|------------------------------------------------------------------------|
-  | Hyra Musique     | https://discord.gg/QKXNdhwxM8     | Discord BOT | Musique V13                                              |
+  | Hyra Musique     | https://discord.gg/QKXNdhwxM8     | Discord BOT Musique V13                                              |
   
   
   ## 🌴・Aide :
