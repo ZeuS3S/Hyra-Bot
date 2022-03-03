@@ -1,6 +1,9 @@
 <h1 align="center">Hyra Musique</h1>
 <br>
 
+<h1 align="center">Configuration</h1>
+<br>
+
   ## 🚩・Projets :
   | Name             | Lien                              | Description                                                            |
   |------------------|-----------------------------------|------------------------------------------------------------------------|
