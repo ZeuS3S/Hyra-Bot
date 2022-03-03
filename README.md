@@ -1,4 +1,5 @@
 <h1 align="center">Hyra Musique</h1>
+<h3 align="center">Hyra Musique est un bot dévellopé en NodeJS sous la version V13 des API de Discord.</h3>
 <br>
 
 <h1 align="center">Configuration</h1>
