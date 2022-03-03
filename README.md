@@ -8,6 +8,6 @@
   
   
   ## 🌴・Aide :
-  | Name             | Descriptinon                                      |
+  | Name             | Description                                       |
   |------------------|---------------------------------------------------|
   | Hyra Musique     | Afin de demander de l'aide vennez sur twitter     |
